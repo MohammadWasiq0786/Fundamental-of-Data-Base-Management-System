@@ -1,5 +1,7 @@
 # [**Fundamental of Data Base Management System (DSM-1006)**](https://github.com/MohammadWasiq0786/Fundamental-of-Data-Base-Management-System)
 
+![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_resized.png)
+
 I'm very very thankful to 
 
 [**Professor Dr. Parvez Mahmood Khan**](https://www.amu.ac.in/faculty/prof-m-n-farooqui-computer-centre/parvez-mahmood-khan)
